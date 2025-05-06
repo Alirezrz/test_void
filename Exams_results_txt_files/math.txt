@@ -1,7 +1,0 @@
-alimamad                   Grade: 20.00
-reza                       Grade: 13.33
-
-Statistics:
-----------------------------------------
-Highest Grade:             alimamad (20.00)
-Class Average:             16.67
