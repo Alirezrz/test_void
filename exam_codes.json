@@ -1,0 +1,26 @@
+[
+    {
+        "Code": "---code----",
+        "designer": "---designer---",
+        "designer_id": "--- designer id---",
+        "participated_students": []
+    },
+    {
+        "Code": "10013",
+        "designer": "ali",
+        "designer_id": "1",
+        "participated_students": [
+            "2",
+            "3"
+        ]
+    },
+    {
+        "Code": "10017",
+        "designer": "mamali",
+        "designer_id": "4",
+        "participated_students": [
+            "2",
+            "3"
+        ]
+    }
+]

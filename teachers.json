@@ -1,0 +1,28 @@
+[
+    {
+        "Courses": [],
+        "ID": "---teacher id---",
+        "Name": "---teacher name---",
+        "Password": "---teacher Password---",
+        "number_of_courses": "--- how many courses does the teacher teach---"
+    },
+    {
+        "Courses": [
+            "ap"
+        ],
+        "ID": "1",
+        "Name": "ali",
+        "Password": "1",
+        "number_of_courses": "1"
+    },
+    {
+        "Courses": [
+            "ap",
+            "bp"
+        ],
+        "ID": "4",
+        "Name": "mamali",
+        "Password": "4",
+        "number_of_courses": "2"
+    }
+]
